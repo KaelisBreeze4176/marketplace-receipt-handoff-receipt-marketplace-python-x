@@ -1,0 +1,2 @@
+"""Marketplace receipt handoff example."""
+
